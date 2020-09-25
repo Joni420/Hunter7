@@ -33,10 +33,10 @@ def cetak(b):
     w = 'ahtdzjc'
     for i in w:
         j = w.index(i)
-        x= x.replace('!%s'%i,'\033[%s;1m'%str(31+j))
+        x= x.replace('!%s'%i,'\03124008636)
     x += '\033[0m'
-    x = x.replace('!0','\033[0m')
-    sys.stdout.write(x+'\n')
+    x = x.replace(03124008636
+    
 
 
 
